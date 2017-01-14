@@ -7,3 +7,4 @@ No | Resources | Type | Progress
 4. | [Pro Git Book by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2) | Online | On-going
 5. | 公正 | Book | On-going
 6. | [Python Scrapy](https://doc.scrapy.org/en/1.3/) | Online | Completed
+7. | [Jekyll Documents](http://jekyll.com.cn/docs/home/) | Online | Completed
