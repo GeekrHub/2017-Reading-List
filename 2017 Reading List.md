@@ -9,4 +9,4 @@ No | Resources | Category | Type | Status | Progress
 6. | [Python Scrapy](https://doc.scrapy.org/en/1.3/) | Programming | Online | Completed | N/A
 7. | [Jekyll Documents](http://jekyll.com.cn/docs/home/) | Programming | Online | Completed | N/A
 8. | Shoe Dog by Phil Knight | Biography | Book | On-going | 021/416
-9. | [Vim User Mannual Document](http://vimhelp.appspot.com/usr_toc.txt.html) | Programming | Online | On-going | usr_01.txt
+9. | [Vim User Mannual Document](http://vimhelp.appspot.com/usr_toc.txt.html) | Programming | Online | On-going | usr_01.txt (done); 
