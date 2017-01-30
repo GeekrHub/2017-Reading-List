@@ -10,4 +10,4 @@ No | Resources | Category | Type | Status | Progress
 7. | [Jekyll Documents](http://jekyll.com.cn/docs/home/) | Programming | Online | Completed | N/A
 8. | Shoe Dog by Phil Knight | Biography | Book | On-going | 021/416
 9. | [Vim User Mannual Document](http://vimhelp.appspot.com/usr_toc.txt.html) | Programming | Online | On-going | usr_01.txt (done); 
-10. | Front End Development Certification | Programming | Online | On-going | Basic JavaScript - Use Conditional Logic with If Statements
+10. | Front End Development Certification | Programming | Online | On-going | Basic JavaScript - Comparison with the Greater Than Operator
