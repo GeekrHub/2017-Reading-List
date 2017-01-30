@@ -11,3 +11,4 @@ No | Resources | Category | Type | Status | Progress
 8. | Shoe Dog by Phil Knight | Biography | Book | On-going | 021/416
 9. | [Vim User Mannual Document](http://vimhelp.appspot.com/usr_toc.txt.html) | Programming | Online | On-going | usr_01.txt (done); 
 10. | Front End Development Certification | Programming | Online | On-going | Basic JavaScript - Comparison with the Greater Than Operator
+11. | 时间简史 | Science | Book | On-going | N/A
