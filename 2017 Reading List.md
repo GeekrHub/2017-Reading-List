@@ -10,5 +10,5 @@ No | Resources | Category | Type | Status | Progress
 7. | [Jekyll Documents](http://jekyll.com.cn/docs/home/) | Programming | Online | Completed | N/A
 8. | Shoe Dog by Phil Knight | Biography | Book | On-going | Page 021/416 Page 132~136
 9. | [Vim User Mannual Document](http://vimhelp.appspot.com/usr_toc.txt.html) | Programming | Online | On-going | usr_01.txt (done); 
-10. | Front End Development Certification | Programming | Online | On-going | Basic JavaScript - Return Early Pattern for Functions
+10. | Front End Development Certification | Programming | Online | On-going | Basic JavaScript - Build JavaScript Objects
 11. | 时间简史 | Science | Book | On-going | N/A
