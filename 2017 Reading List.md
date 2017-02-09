@@ -13,3 +13,4 @@ No | Resources | Category | Type | Status | Progress
 10. | Front End Development Certification | Programming | Online | On-going | Basic JavaScript - Add New Properties to a JavaScript Object
 11. | 时间简史 | Science | Book | On-going | N/A
 12. | 艺术日课书 | Art | Book | On-going | 11 pages of toal 372 pages (Page 80-90)
+13. | Twitter Bootstrap3 by Peter Shaw | Programming | e-Books | On-going | N/A
