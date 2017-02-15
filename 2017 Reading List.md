@@ -14,4 +14,4 @@ No | Resources | Category | Type | Status | Progress
 11. | 时间简史 | Science | Book | On-going | N/A
 12. | 艺术日课书 | Art | Book | On-going | 12 pages of toal 372 pages (Page 79-90)
 13. | Twitter Bootstrap3 by Peter Shaw | Programming | e-Books | On-going | Introduction - Device Support
-14. | 三生三世十里桃花 | Novel | Online | On-going | Chapter 9
+14. | 三生三世十里桃花 | Novel | Online | On-going | Chapter 13
