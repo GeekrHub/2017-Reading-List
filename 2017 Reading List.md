@@ -13,5 +13,5 @@ No | Resources | Category | Type | Status | Progress
 10. | Front End Development Certification | Programming | Online | On-going | Basic Algorithm Scripting - Title Case a Sentence
 11. | 时间简史 | Science | Book | On-going | N/A
 12. | 艺术日课书 | Art | Book | On-going | 12 pages of toal 372 pages (Page 79-90)
-13. | Twitter Bootstrap3 by Peter Shaw | Programming | e-Books | On-going | Introduction - Device Support
+13. | Twitter Bootstrap3 by Peter Shaw | Programming | e-Books | On-going | Chapter 1 finished
 14. | 三生三世十里桃花 | Novel | Online | On-going | Chapter 17
