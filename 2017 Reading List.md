@@ -10,7 +10,7 @@ No | Resources | Category | Type | Status | Progress
 7. | [Jekyll Documents](http://jekyll.com.cn/docs/home/) | Programming | Online | Completed | N/A
 8. | Shoe Dog by Phil Knight | Biography | Book | On-going | Page 021/416 Page 132~136
 9. | [Vim User Mannual Document](http://vimhelp.appspot.com/usr_toc.txt.html) | Programming | Online | On-going | usr_01.txt (done); 
-10. | Front End Development Certification | Programming | Online | On-going | Basic Algorithm Scripting - Title Case a Sentence
+10. | Front End Development Certification | Programming | Online | On-going | Basic Algorithm Scripting - Return Largest Numbers in Arrays
 11. | 时间简史 | Science | Book | On-going | N/A
 12. | 艺术日课书 | Art | Book | On-going | 12 pages of toal 372 pages (Page 79-90)
 13. | Twitter Bootstrap3 by Peter Shaw | Programming | e-Books | On-going | Chapter 1 finished
