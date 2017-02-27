@@ -12,6 +12,6 @@ No | Resources | Category | Type | Status | Progress
 9. | [Vim User Mannual Document](http://vimhelp.appspot.com/usr_toc.txt.html) | Programming | Online | On-going | usr_01.txt (done); 
 10. | Front End Development Certification | Programming | Online | On-going | Basic Algorithm Scripting - Slasher Flick
 11. | 时间简史 | Science | Book | On-going | N/A
-12. | 艺术日课书 | Art | Book | On-going | 12 pages of toal 372 pages (Page 79-90)
+12. | 艺术日课书 | Art | Book | On-going | 15 pages of toal 372 pages (Page 76-90)
 13. | Twitter Bootstrap3 by Peter Shaw | Programming | e-Books | On-going | Chapter 1 finished
 14. | 三生三世十里桃花 | Novel | Online | Completed | Final Chapter
