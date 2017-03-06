@@ -8,7 +8,7 @@ No | Resources | Category | Type | Status | Progress
 5. | 公正 | Sociology | Book | On-going | N/A
 6. | [Python Scrapy](https://doc.scrapy.org/en/1.3/) | Programming | Online | Completed | N/A
 7. | [Jekyll Documents](http://jekyll.com.cn/docs/home/) | Programming | Online | Completed | N/A
-8. | Shoe Dog by Phil Knight | Biography | Book | On-going | Page 045/416 Page 132~136
+8. | Shoe Dog by Phil Knight | Biography | Book | On-going | Page 050/416 Page 132~136
 9. | [Vim User Mannual Document](http://vimhelp.appspot.com/usr_toc.txt.html) | Programming | Online | On-going | usr_01.txt (done); 
 10. | Front End Development Certification | Programming | Online | On-going | Front End Project - Build a Random Quote Machine
 11. | 时间简史 | Science | Book | On-going | N/A
